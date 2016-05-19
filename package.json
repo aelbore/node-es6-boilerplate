@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aelbore/node-es6-boilerplate/issues"
   },
-  "homepage": "https://github.com/aelbore/node-es6-boilerplate#readme"
+  "homepage": "https://github.com/aelbore/node-es6-boilerplate#readme",
+  "dependencies": {
+    "babel": "^6.5.2"
+  }
 }
