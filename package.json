@@ -1,0 +1,19 @@
+{
+  "name": "node-es6-boilerplate",
+  "version": "1.0.0",
+  "description": "NodeJS ES6 Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelbore/node-es6-boilerplate.git"
+  },
+  "author": "virtual-override",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelbore/node-es6-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aelbore/node-es6-boilerplate#readme"
+}
